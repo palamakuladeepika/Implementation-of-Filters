@@ -37,8 +37,8 @@ End the program.
 </br> 
 
 ## Program:
-### Developed By   :
-### Register Number:
+### Developed By   : palamakula deepika
+### Register Number: 212221240035
 </br>
 
 ### 1. Smoothing Filters
